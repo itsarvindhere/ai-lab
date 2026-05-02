@@ -1,1 +1,1 @@
-"# ai-lab" 
+A structured repository for learning and building with LLMs, prompt engineering, MCP, and modern AI systems.
